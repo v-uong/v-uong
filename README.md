@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I work at [Ninja Van](https://www.ninjavan.co/) as software engineer. :hammer: Familiar languages of mine are 🐭 Go, 🐘 PHP. :wrench: ReactJS and VueJS are in another side to make UI for my backend works. Reach me by [Twitter](https://twitter.com/vuongggggg).
+Reach me by [Twitter](https://twitter.com/vuongggggg).
  
 <!--
 **vuongggggg/vuongggggg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
