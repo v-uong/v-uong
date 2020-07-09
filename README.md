@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-🔭 I’m currently working on logistics field at Ninja Van.
-My main stack is Go, PHP, SQL.
+- 🔭 I’m currently working on logistics field at Ninja Van.
+- Familiar languages of mine are 🐭 Go, 🐘 PHP.
 <!--
 **vuongggggg/vuongggggg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
