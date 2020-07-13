@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I have nothing to say but if you have any question, reach me on Twitter.
+I have nothing to say but if you have any question then please reach me on Twitter.
  
 <!--
 **vuongggggg/vuongggggg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
