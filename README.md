@@ -2,7 +2,7 @@
 
 I have nothing to say but if you have any question then please reach me on Twitter.
 
-[![ѵµσɳɠ 😈's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/vuong)
+[![ѵµσɳɠ 😈's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg){:height="36px" width="36px"}](https://dev.to/vuong)
  
 <!--
 **vuongggggg/vuongggggg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
