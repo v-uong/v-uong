@@ -1,8 +1,8 @@
-### Hi there 👋
+Hi there 👋
 
-I'm Vuong, a s_ftw_r_-_ng_n__r living in Saigon (Vietnam).
+I'm Vuong, a s_ftw_r_-_ng_n__r living in Saigon, Vietnam 💬
 
-![Vuong's github stats](https://github-readme-stats.vercel.app/api?username=vuongggggg&show_icons=true&theme=dark)
+<img src="https://github-readme-stats.vercel.app/api?username=vuongggggg&show_icons=true&theme=dark"/>
 
 <!--
 **vuongggggg/vuongggggg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
