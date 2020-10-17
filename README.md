@@ -1,6 +1,6 @@
 Hi there 👋
 
-I'm Vuong, a s_ftw_r_-_ng_n__r living in Saigon, Vietnam 💬
+I'm Vuong, a software engineer working & living in Saigon, Vietnam 💬
 
 <img src="https://github-readme-stats.vercel.app/api?username=vuongggggg&show_icons=true&theme=dark" raw=true/>
 
