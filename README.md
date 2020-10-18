@@ -1,6 +1,4 @@
-Hi there 👋
 
-I'm Vuong, a software engineer working & living in Saigon, Vietnam 💬
 
 <img src="https://github-readme-stats.vercel.app/api?username=vuongggggg&show_icons=true&theme=dark" raw=true/>
 
