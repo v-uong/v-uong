@@ -1,6 +1,6 @@
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=vuongggggg&show_icons=true&theme=dark" raw=true/>
+<img src="https://github-readme-stats.vercel.app/api?username=vuongggggg&show_icons=true&count_private=true" raw=true/>
 
 <!--
 **vuongggggg/vuongggggg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
